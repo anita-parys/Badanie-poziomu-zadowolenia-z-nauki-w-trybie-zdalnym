@@ -36,6 +36,10 @@
 
 ![image](https://user-images.githubusercontent.com/97041456/156070899-4bb50e39-8bc5-4046-9481-a1298a3b33df.png)
 
+- Rodzaj uczelni 
+
+![image](https://user-images.githubusercontent.com/97041456/156073384-7d5f31be-17a4-4abc-8c7c-cc347db5d1c7.png)
+
 
 - Rok studiów
 

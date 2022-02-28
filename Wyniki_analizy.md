@@ -1,5 +1,5 @@
 # Badanie poziomu zadowolenia z nauki w trybie zdalnym wśród studentów polskich uczelni.
-## Wyniki ankiety
+## Wyniki z przeprowadzonej ankiety
 ### Podstawowe statystyki
 ![wykresy_kolowe](/screenshots/wykresy_kolowe.PNG)
 ![rok](/screenshots/rok.PNG)

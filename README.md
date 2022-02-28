@@ -1,6 +1,6 @@
 # Badanie poziomu zadowolenia z nauki w trybie zdalnym wśród studentów polskich uczelni.
 
-Głównym celem projektu była analiza czynników wpływających na poziom zadowolenia uczniów z nauki w trybie online. W badaniu wzięło udział 707 studentów polskich uczelni w okresie listopad-grudzień 2020 roku. 
+Głównym celem projektu była analiza czynników wpływających na poziom zadowolenia uczniów z nauki w trybie online. W badaniu wzięło udział 706 studentów polskich uczelni w okresie listopad-grudzień 2020 roku. 
 Ankieta zawierała następujące pytania:
 
 Pytania ogólne:
@@ -14,12 +14,12 @@ Pytania ogólne:
 Pytania do oceny punktowej 1-5*
 - Komunikacja z prowadzącym w trakcie zajęć
 - Przygotowanie prowadzących do trybu zdalnego
-- Dostępność prowadzących poza zajęciami',
-- Dostępność oraz jakość materiałów naukowych oferowanych przez uczelnię'
+- Dostępność prowadzących poza zajęciami
+- Dostępność oraz jakość materiałów naukowych oferowanych przez uczelnię
 - Ogólny poziom zadowolenia ze studiów w trybie online (skala 1-10)*
 
 Pytania typu "tak-nie":
-- Czy jest potrzeba wynajmu / mieszkania w akademiku w przypadku studiów stacjonarnych'
+- Czy jest potrzeba wynajmu / mieszkania w akademiku w przypadku studiów stacjonarnych
 - Czy pracujesz poza uczelnią
 - Czy pobierasz stypendium socjalne/naukowe
 - Czy była potrzeba dokupowania odpowiednich akcesoriów/ przyśpieszenia internetu w celu odbycia zajęć  
@@ -31,6 +31,7 @@ Pytania typu "tak-nie":
 - Czy czujesz że omijają Cie ciekawe rzeczy na uczelni (np. zajęcia praktyczne)
 - Czas podróży na uczelnię (w jedną stronę)
 
+
 Pozostałe pytania:
 - Jakie aplikacje wykorzystywane są przez prowadzących
 - Jaką masz prędkość internetu
@@ -38,10 +39,5 @@ Pozostałe pytania:
 - Jak często zdarzały się problemy techniczne utrudniające uczestnictwo/ odbywanie się zajęć
 - Jak często zdarza Ci się ściągać na zaliczeniach online
 - Jak oceniasz poziom trudności zaliczeń online względem studiów stacjonarnych
->---
-## Wyniki ankiety
-### Podstawowe statystyki
-![wykresy_kolowe](/screenshots/wykresy_kolowe.PNG)
-![rok](/screenshots/rok.PNG)
->---
+
 

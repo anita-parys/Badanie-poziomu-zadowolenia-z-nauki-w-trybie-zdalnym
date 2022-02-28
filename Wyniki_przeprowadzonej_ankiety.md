@@ -41,4 +41,12 @@
 
 ![image](https://user-images.githubusercontent.com/97041456/156070928-1407060e-c947-4138-b6a2-39356fb84480.png)
 
+- Czas dojazdu na uczelnię
+
+![image](https://user-images.githubusercontent.com/97041456/156072016-ac116637-e290-460d-84f8-3a35545a0f6b.png)
+
+- Jakość internetu
+
+![image](https://user-images.githubusercontent.com/97041456/156071962-e019c13f-511f-4b66-bf25-3ca0cac8be2f.png)
+
 

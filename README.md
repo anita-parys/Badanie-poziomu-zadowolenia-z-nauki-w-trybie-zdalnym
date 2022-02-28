@@ -2,6 +2,7 @@
 
 Głównym celem projektu była analiza czynników wpływających na poziom zadowolenia uczniów z nauki w trybie online. W badaniu wzięło udział 707 studentów polskich uczelni w okresie listopad-grudzień 2020 roku. 
 Ankieta zawierała następujące pytania:
+
 Pytania ogólne:
 - Charakter studiów
 - Płeć
@@ -37,5 +38,8 @@ Pozostałe pytania:
 - Jak często zdarzały się problemy techniczne utrudniające uczestnictwo/ odbywanie się zajęć
 - Jak często zdarza Ci się ściągać na zaliczeniach online
 - Jak oceniasz poziom trudności zaliczeń online względem studiów stacjonarnych
-   
+>---
+## Wyniki ankiety
+### Podstawowe statystyki 
+- 
 

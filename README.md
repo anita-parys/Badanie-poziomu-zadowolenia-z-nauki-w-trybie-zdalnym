@@ -40,6 +40,8 @@ Pozostałe pytania:
 - Jak oceniasz poziom trudności zaliczeń online względem studiów stacjonarnych
 >---
 ## Wyniki ankiety
-### Podstawowe statystyki 
-- 
+### Podstawowe statystyki
+![wykresy_kolowe](/screenshots/wykresy_kolowe.PNG)
+![rok](/screenshots/rok.PNG)
+>---
 

@@ -1,6 +1,6 @@
 # Badanie poziomu zadowolenia z nauki w trybie zdalnym wśród studentów polskich uczelni.
 
-Głównym celem projektu była analiza czynników wpływających na poziom zadowolenia uczniów z nauki w trybie online. W badaniu wzięło udział 706 studentów polskich uczelni w okresie listopad-grudzień 2020 roku. 
+Głównym celem projektu była analiza czynników wpływających na poziom zadowolenia uczniów z nauki w trybie online. Analizę przeprowadzono z wykorzystaniem języka Python. W badaniu wzięło udział 706 studentów polskich uczelni w okresie listopad-grudzień 2020 roku. 
 Ankieta zawierała następujące pytania:
 
 Pytania ogólne:
